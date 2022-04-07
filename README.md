@@ -1,6 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=00C9FF&height=300&section=header&text=Hi!%20I'm%20Yunho&fontSize=90)
 
-I’m currently learning ... 🌱
+I’m currently learning ... 🌱  
+  
+    
+#### ✏️ Studying  ✏️ 
+<img src="https://img.shields.io/badge/-C%23-blueviolet?&style=square&logo=C Sharp&logoColor=white"/>
 
 <!--
 **yunho-dev/yunho-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
