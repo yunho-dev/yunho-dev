@@ -6,6 +6,7 @@ I’m currently learning ... 🌱
 #### ✏️ Studying  ✏️ 
 <img src="https://img.shields.io/badge/-C%23-blueviolet?&style=square&logo=C Sharp&logoColor=white"/>
 
+
 <!--
 **yunho-dev/yunho-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,4 +20,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+
+<!--
+제일 위에 로고 뒤집힌거 밑에다가 추가
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 -->
