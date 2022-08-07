@@ -4,7 +4,7 @@ I’m currently learning ... 🌱
   
     
 #### ✏️ Studying  ✏️ 
-<img src="https://img.shields.io/badge/-C%23-blueviolet?&style=square&logo=C Sharp&logoColor=white"/> <img src="https://img.shields.io/badge/-%20.NET-grey?&style=square&logo=.NET&logoColor=black"/> 
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/></a> <img src="https://img.shields.io/badge/-C%23-blueviolet?&style=square&logo=C Sharp&logoColor=white"/>
 
 
 <!--
