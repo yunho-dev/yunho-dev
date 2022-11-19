@@ -5,7 +5,7 @@
 <br>
 <br>
 
-# Stack
+# Tech Stack
 
 작성중
     
