@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=00C9FF&height=300&section=header&text=Hi!%20I'm%20Yunho&fontSize=90)
 
-# Look at this
+# Look at this(취업이 완료되어 링크 닫음)
 <a href="https://tropical-mayflower-214.notion.site/e3d897d5f7424d609c174f90e9fc197f" target="_blank"><img src="https://img.shields.io/badge/포트폴리오-000000?style=flat-square&logo=Notion&logoColor=white" width="200" height="80"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://tropical-mayflower-214.notion.site/TIL-Today-I-Leaned-ddad37850880436f970f5ebd12a6b50a" target="_blank"><img src="https://img.shields.io/badge/TIL-906AB0?style=flat-square&logo=Notion&logoColor=white" width="200" height="80"/></a>
 <br>
 <br>
