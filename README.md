@@ -1,34 +1,43 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=00C9FF&height=300&section=header&text=Hi!%20I'm%20Yunho&fontSize=90)
+# 안녕하세요, 최윤호입니다 👋
 
-# Look at this(취업이 완료되어 링크 닫음)
-<a href="https://tropical-mayflower-214.notion.site/e3d897d5f7424d609c174f90e9fc197f" target="_blank"><img src="https://img.shields.io/badge/포트폴리오-000000?style=flat-square&logo=Notion&logoColor=white" width="200" height="80"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://tropical-mayflower-214.notion.site/TIL-Today-I-Leaned-ddad37850880436f970f5ebd12a6b50a" target="_blank"><img src="https://img.shields.io/badge/TIL-906AB0?style=flat-square&logo=Notion&logoColor=white" width="200" height="80"/></a>
-<br>
-<br>
+복잡한 도메인 로직과 대용량 데이터를 안정적으로 다루는 데 관심이 많은 **Java / Spring 백엔드 개발자**입니다.
 
-# Tech Stack
+대학 성과관리 시스템을 만들고 운영하며, 통계·집계성 SQL 설계와 성능 최적화, 레거시 구조 개선을 주로 해왔습니다.
 
-작성중
-    
-#### ✏️ Studying  ✏️ 
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/></a> <img src="https://img.shields.io/badge/-C%23-blueviolet?&style=square&logo=C Sharp&logoColor=white"/>
+---
 
+### 무엇을 해왔나요
 
-<!--
-**yunho-dev/yunho-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 다수 대학의 성과관리 시스템 구축·운영 (Java, Spring, MyBatis, Oracle / Tibero)
+- 복잡한 통계·집계 SQL 설계 및 쿼리 성능 최적화 (예: 계층 쿼리 8초 → 1초 미만)
+- 프로시저 의존 구조 제거, 쿼리 구조 재설계 등 유지보수성 개선
 
-Here are some ideas to get you started:
+### Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![MyBatis](https://img.shields.io/badge/MyBatis-DC382D?style=flat-square&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Tibero](https://img.shields.io/badge/Tibero-1E90FF?style=flat-square&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 
-<!--
-제일 위에 로고 뒤집힌거 밑에다가 추가
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
--->
+| 구분 | 내용 |
+| --- | --- |
+| Language | Java, SQL |
+| Framework | Spring Framework |
+| Persistence | MyBatis |
+| Database | Oracle, Tibero |
+| Frontend | JSP / JSTL, jQuery |
+| Tools | Git, SVN, Jenkins, Maven, JasperReports |
+
+### 요즘 하는 것
+
+- Spring Boot 기반 개인 프로젝트 진행 중 (개인 자산·지출 관리 서비스)
+  - Stack: Spring Boot · MyBatis · PostgreSQL · Thymeleaf · Chart.js
+- 견고하고 테스트하기 좋은 백엔드 설계, 데이터베이스 성능에 대한 학습
+
+### Contact
+
+- Email: `여기에 이메일`
+- 이력서 / 경력기술서: `여기에 링크`
