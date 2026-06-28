@@ -34,7 +34,7 @@
 ### 요즘 하는 것
 
 - Spring Boot 기반 개인 프로젝트 진행 중 (개인 자산·지출 관리 서비스)
-  - Stack: Spring Boot · MyBatis · PostgreSQL · Thymeleaf · Chart.js
+- Stack: Spring Boot · JPA(Hibernate) · PostgreSQL · Thymeleaf
 - 견고하고 테스트하기 좋은 백엔드 설계, 데이터베이스 성능에 대한 학습
 
 ### Contact
